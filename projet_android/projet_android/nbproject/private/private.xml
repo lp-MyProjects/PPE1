@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/metier/Matiere.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ludovic/Documents/NetBeansProjects/projet_android/projet_android/src/vue/Projet_Android_interface.java</file>
+            <file>file:/C:/Users/Ludovic/Documents/NetBeansProjects/projet_android/projet_android/src/Interface/Seance.fxml</file>
+            <file>file:/C:/Users/Ludovic/Documents/NetBeansProjects/projet_android/projet_android/src/Interface/InscriptionProfesseur.fxml</file>
+            <file>file:/C:/Users/Ludovic/Documents/NetBeansProjects/projet_android/projet_android/src/DAO/SeanceDAO.java</file>
+            <file>file:/C:/Users/Ludovic/Documents/NetBeansProjects/projet_android/projet_android/src/metier/Professeurr.java</file>
+            <file>file:/C:/Users/Ludovic/Documents/NetBeansProjects/projet_android/projet_android/src/vue/Projet_android.java</file>
+            <file>file:/C:/Users/Ludovic/Documents/NetBeansProjects/projet_android/projet_android/src/vue/Seance.java</file>
+            <file>file:/C:/Users/Ludovic/Documents/NetBeansProjects/projet_android/projet_android/src/metier/Classee.java</file>
+            <file>file:/C:/Users/Ludovic/Documents/NetBeansProjects/projet_android/projet_android/src/DAO/ClasseDAO.java</file>
+            <file>file:/C:/Users/Ludovic/Documents/NetBeansProjects/projet_android/projet_android/src/Interface/nosCours.fxml</file>
+        </group>
+    </open-files>
+</project-private>

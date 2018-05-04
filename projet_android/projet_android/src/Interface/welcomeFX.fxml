@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" fx:id="AnchorPane_welcome" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.WelcomeFXController">
+   <children>
+      <AnchorPane id="AnchorPane" fx:id="AnchorWelcome" layoutX="7.0" layoutY="4.0" prefHeight="400.0" prefWidth="610.0">
+         <children>
+            <Button fx:id="bt_Formations" layoutX="102.0" layoutY="96.0" mnemonicParsing="false" onAction="#goFormations" prefHeight="58.0" prefWidth="153.0" text="Nos Formations" />
+            <Button fx:id="bt_Professeurs" layoutX="317.0" layoutY="96.0" mnemonicParsing="false" onAction="#goProfesseurs" prefHeight="58.0" prefWidth="153.0" text="Inscritpion professeurs" />
+            <Button fx:id="bt_Cours" layoutX="102.0" layoutY="181.0" mnemonicParsing="false" onAction="#goCours" prefHeight="58.0" prefWidth="153.0" text="Nos Cours" />
+            <Button fx:id="bt_Etudiants" layoutX="317.0" layoutY="181.0" mnemonicParsing="false" onAction="#goEtudiant" prefHeight="58.0" prefWidth="153.0" text="Inscription Etudiant" />
+            <Text fill="#00ffe5" layoutX="166.0" layoutY="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Bienvenue" textAlignment="CENTER" wrappingWidth="227.9830722808838">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Text>
+            <Button fx:id="bt_seance" layoutX="102.0" layoutY="277.0" mnemonicParsing="false" onAction="#goSeance" prefHeight="58.0" prefWidth="153.0" text="Créer un cours" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
